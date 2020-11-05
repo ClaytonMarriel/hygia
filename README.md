@@ -8,7 +8,7 @@ Banco de dados -> MongoDB <br>
 
 <h1> No FrontEnd: <h1>
   <h2>React/Hooks, implementado no template solicitado.</h2>
-
+  <h3> Onde é possível cadastrar novos usuários e novas noticias </h3>
 
 
 
