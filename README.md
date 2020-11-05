@@ -7,7 +7,7 @@ NodeJS -> express -> cors -> nodemon <br>
 Banco de dados -> MongoDB <br>
 
 <h1> No FrontEnd: <h1>
-  <h2>React/Hooks, implementado no template solicitado</h2>
+  <h2>React/Hooks, implementado no template solicitado.</h2>
 
 
 
